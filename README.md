@@ -1,2 +1,2 @@
 # RAG-Player
-An audio and music player
+An audio and video player
